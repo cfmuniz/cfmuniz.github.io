@@ -14,31 +14,34 @@ layout: home
 <hr style="border:0;border-top:1px solid #ddd;margin: 2em 0;" />
 
 ## Education
-- **Data Analyst with R**. DataCamp, 2018.
+- **Data Analyst with R**. DataCamp, 2018. Course list available [here](https://learn.datacamp.com/career-tracks/data-analyst-with-r?version=1).
 - **Ph.D. Marine Biology**. Rhodes University, South Africa, 2019. Thesis available [here](http://hdl.handle.net/10962/75317).
 - ***Licenciatura* in Biology** (5-year degree). University of Oviedo, Spain, 2012.
 
 ## Courses and Training
 ### Data Analysis
 - [Data Science courses](https://www.datacamp.com/profile/cfmuniz1988). DataCamp, 2018 - to present.
-- **Fundamentals of Scalable Data Science**. IBM & Coursera, 2020.
-- **Discovery and Use of Operational Data products and Services**. UNESCO/IOC Project Office for IODE, Belgium, 11 – 15 Mar. 2019.
-- **Ocean Data Management for Researchers**. UNESCO/IOC Project Office for IODE. Belgium, 3 – 7 Dec. 2018.
-- **Data Analysis and Statistical Inference**. Duke University & Coursera, 2014.
-- **Introduction to Statistics**. Udacity, 2013.
+- ***Mathematics for Machine Learning: Linear Algebra***. Imperial College London & Coursera, 2020. 
+- ***Applied AI with DeepLearning***. IBM & Coursera, 2020.
+- ***Advanced Machine Learning and Signal Processing***. IBM & Coursera, 2020.
+- ***Fundamentals of Scalable Data Science***. IBM & Coursera, 2020.
+- ***Data Analysis and Statistical Inference***. Duke University & Coursera, 2014.
+- ***Introduction to Statistics***. Udacity, 2013.
 
 ### Sciences
-- **Contemporary Issues in Ocean Governance**. University of Wollongong & Open2study, 2014.
-- **Marine and Antarctic Science**. University of Tasmania & Open2study, 2014.
-- **How Green is that Product? An Introduction to Life Cycle Environmental Assessment**. Northwestern University & Coursera, 2014.
-- **Marine Megafauna: An introduction to Marine Science and Conservation**. Duke University & Coursera, 2014.
-- **Computational Molecular Evolution**. Technical University of Denmark & Coursera, 2013.
+- ***Discovery and Use of Operational Data products and Services***. UNESCO/IOC Project Office for IODE, Belgium, 11 – 15 Mar. 2019.
+- ***Ocean Data Management for Researchers***. UNESCO/IOC Project Office for IODE. Belgium, 3 – 7 Dec. 2018.
+- ***Contemporary Issues in Ocean Governance***. University of Wollongong & Open2study, 2014.
+- ***Marine and Antarctic Science***. University of Tasmania & Open2study, 2014.
+- ***How Green is that Product? An Introduction to Life Cycle Environmental Assessment***. Northwestern University & Coursera, 2014.
+- ***Marine Megafauna: An introduction to Marine Science and Conservation***. Duke University & Coursera, 2014.
+- ***Computational Molecular Evolution***. Technical University of Denmark & Coursera, 2013.
 
 ### Diving Certifications
-- **Divemaster**. CMAS, Spain, 2013.
-- **Professional diver, SCUBA and Surface Supplied to 30m diver**. Spain, 2010.
-- **Basic Life Support Provider**. Divers Alert Network (DAN), 2010.
-- **Oxygen Provider**. Divers Alert Network (DAN), 2010.
+- ***Divemaster***. CMAS, Spain, 2013.
+- ***Professional diver, SCUBA and Surface Supplied to 30m diver***. Spain, 2010.
+- ***Basic Life Support Provider***. Divers Alert Network (DAN), 2010.
+- ***Oxygen Provider***. Divers Alert Network (DAN), 2010.
 
 ## Publications
 - **Muñiz, C.** (2019). Large scale spatio-temporal forcing of pelagic-coastal coupling: disentangling the effects of environmental change on intertidal invertebrate recruitment. Ph.D. Thesis, Rhodes University, Apr. 2019. Thesis available [here](http://hdl.handle.net/10962/75317).
