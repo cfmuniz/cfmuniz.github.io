@@ -21,7 +21,7 @@ layout: home
 ## Courses and Training
 ### Data Analysis
 - [Data Science courses](https://www.datacamp.com/profile/cfmuniz1988). DataCamp, 2018 - to present.
-- ***Mathematics for Machine Learning: Linear Algebra***. Imperial College London & Coursera, 2020. 
+- ***Mathematics for Machine Learning: Linear Algebra***. Imperial College London & Coursera, 2020.
 - ***Applied AI with DeepLearning***. IBM & Coursera, 2020.
 - ***Advanced Machine Learning and Signal Processing***. IBM & Coursera, 2020.
 - ***Fundamentals of Scalable Data Science***. IBM & Coursera, 2020.
@@ -44,16 +44,18 @@ layout: home
 - ***Oxygen Provider***. Divers Alert Network (DAN), 2010.
 
 ## Publications
-- **Muñiz, C.** (2019). Large scale spatio-temporal forcing of pelagic-coastal coupling: disentangling the effects of environmental change on intertidal invertebrate recruitment. Ph.D. Thesis, Rhodes University, Apr. 2019. Thesis available [here](http://hdl.handle.net/10962/75317).
-- Höfer, J., **Muñiz, C.**, Weidberg, N., García-Flórez, L., Acuña, J.L. (2017). High densities of stalked barnacle larvae (*Pollicipes pollicipes*) inside a river plume. Journal of Plankton Research, 39: 316-329. [doi:10.1093/plankt/fbw093](https://doi.org/10.1093/plankt/fbw093)
+- **Muñiz, C.**, McQuaid, C.D., Weidberg, N. (*in press*). Seasonality of primary productivity affects coastal species more than its magnitude. *Science of the Total Environment*. [doi:10.1016/j.scitotenv.2020.143740](https://doi.org/10.1016/j.scitotenv.2020.143740)
+- **Muñiz, C.** 2018. Large scale spatio-temporal forcing of pelagic-coastal coupling: disentangling the effects of environmental change on intertidal invertebrate recruitment. Ph.D. Thesis, Rhodes University. Thesis available [here](http://hdl.handle.net/10962/75317).
+- Höfer, J., **Muñiz, C.**, Weidberg, N., García-Flórez, L., Acuña, J.L. 2017. High densities of stalked barnacle larvae (*Pollicipes pollicipes*) inside a river plume. *Journal of Plankton Research*, 39: 316-329. [doi:10.1093/plankt/fbw093](https://doi.org/10.1093/plankt/fbw093)
 
 ## Conference Papers
-- Román, S., **Muñiz, C.**, Aguión, A., Santiago, J.A., Seoane, P., Barreiro, B., Vázquez, E., Macho, G. Ecology of the stalked barnacle, *Pollicipes pollicipes* (Gmelin, 1970): reproduction, recruitment and relation with the environmental conditions. II International Congress of Young Marine Researchers, Málaga, Spain, 10/2019.
-- Geiger, K., Acuña, J.L., Aguión, A., [and 36 others, including **Muñiz, C.**]. The PERCEBES project: science for the spatial management of the stalked barnacle fishery in the Atlantic Arc. XX Iberian Symposium on Marine Biology Studies (SIEBM XX), Braga, Portugal, 09/2019. [doi:10.3389/conf.fmars.2019.08.00156](https://doi.org/10.3389/conf.fmars.2019.08.00156)
-- **Muñiz, C.**, Weidberg, N. and McQuaid, C.D. Large scale drivers of benthic recruitment: effects of environmental change and a Harmful Algal Bloom. Oral presentation for the 57th Estuarine Coastal Sciences Association Conference (ECSA), Perth, Australia, 09/2018.
-- **Muñiz, C.**, Weidberg, N. and McQuaid, C.D. Red tide conditions and spatio-temporal patterns in intertidal invertebrate recruitment: does food particle size matter?. Oral presentation for the 16th Southern African Marine Science Symposium (SAMSS), Port Elizabeth, South Africa, 07/2017.
-- **Muñiz, C.**, Weidberg, N. and McQuaid, C.D. Analysis of error produced by sub-sampling zooplankton. Poster presentation for the 11th International Temperate Reefs Symposium (ITRS), Pisa, Italy, 07/2016.
-- **Muñiz, C.**, Weidberg, N. and McQuaid, C.D. Red tide conditions and spatio-temporal patterns in intertidal invertebrate recruitment: does food particle size matter?. Oral presentation for the 11th International Temperate Reefs Symposium (ITRS), Pisa, Italy, 07/2016.
+- Sousa, A., Acuña, J.L., Aguión, A., [and 12 others, including **Muñiz, C.**]. 2020. Assessing stalked barnacle *Pollicipes pollicipes* abundance across Europe for a stock status comparison. 101st Western Society of Naturalists. Virtual meeting. [poster]
+- Román, S., **Muñiz, C.**, Aguión, A., Santiago, J.A., Seoane, P., Barreiro, B., Vázquez, E., Macho, G. 2019. Ecology of the stalked barnacle, *Pollicipes pollicipes* (Gmelin, 1970): reproduction, recruitment and relation with the environmental conditions. II International Congress of Young Marine Researchers, Málaga, Spain. [oral presentation]
+- Geiger, K., Acuña, J.L., Aguión, A., [and 36 others, including **Muñiz, C.**]. 2019. The PERCEBES project: science for the spatial management of the stalked barnacle fishery in the Atlantic Arc. XX Iberian Symposium on Marine Biology Studies (SIEBM XX), Braga, Portugal. [doi:10.3389/conf.fmars.2019.08.00156](https://doi.org/10.3389/conf.fmars.2019.08.00156) [poster]
+- **Muñiz, C.**, Weidberg, N., McQuaid, C.D. 2018. Large scale drivers of benthic recruitment: effects of environmental change and a Harmful Algal Bloom. 57th Estuarine Coastal Sciences Association Conference (ECSA), Perth, Australia. [oral presentation]
+- **Muñiz, C.**, Weidberg, N., McQuaid, C.D. 2017. Red tide conditions and spatio-temporal patterns in intertidal invertebrate recruitment: does food particle size matter?. 16th Southern African Marine Science Symposium (SAMSS), Port Elizabeth, South Africa. [oral presentation]
+- **Muñiz, C.**, Weidberg, N., McQuaid, C.D. 2016. Analysis of error produced by sub-sampling zooplankton. 11th International Temperate Reefs Symposium (ITRS), Pisa, Italy. [poster]
+- **Muñiz, C.**, Weidberg, N., McQuaid, C.D. 2016. Red tide conditions and spatio-temporal patterns in intertidal invertebrate recruitment: does food particle size matter?. 11th International Temperate Reefs Symposium (ITRS), Pisa, Italy. [oral presentation]
 
 ## Fellowships and Awards
 - Ph.D. Fellowship, South African Research Chairs Initiative of the Department of Science and Technology and the National Research Foundation. 01/2016 – 12/2017.
