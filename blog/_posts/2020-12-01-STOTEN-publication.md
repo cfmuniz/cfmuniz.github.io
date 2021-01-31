@@ -3,7 +3,7 @@ layout: post
 title: "New publication: seasonality and coastal organisms"
 ---
 
-I have recently co-authored a paper entitled *Seasonality of primary productivity affects coastal species more than its magnitude*, with Prof. Christopher D. McQuaid and Dr. Nicolas Weidberg. The paper was published in Science of the Total Environment and can be accessed [here](https://authors.elsevier.com/a/1c8SoB8ccoPth).
+I have recently co-authored a paper entitled *Seasonality of primary productivity affects coastal species more than its magnitude*, with Prof. Christopher D. McQuaid and Dr. Nicolas Weidberg. The paper was published in Science of the Total Environment and can be accessed [here](https://doi.org/10.1016/j.scitotenv.2020.143740).
 
 ![Graphical-abstract](/assets/graphical-abstract.png) *Graphical abstract from the original publication. The map shows the increase (reddish values) or decrease (blueish) in chlorophyll periodicity (chl-a, a proxy of food availability in the water). A strengthening of the Agulhas Current may be the indirect mechanism behind those changes.*
 
@@ -47,5 +47,5 @@ The main highlights that we found were:
 
 These results show a strong relationship between organisms' abundance and predictability of the conditions experienced, in particular food seasonality. It is highly relevant to account for this information in future modelling efforts for coastal populations, especially considering the possible effects that such changes may have on the early life cycle of organisms.
 
-If you want to know more, you can read the full paper [here](https://authors.elsevier.com/a/1c8SoB8ccoPth).
+If you want to know more, you can read the full paper [here](https://doi.org/10.1016/j.scitotenv.2020.143740).
 
