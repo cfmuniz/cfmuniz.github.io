@@ -20,11 +20,14 @@ layout: home
 
 ## Courses and Training
 ### Data Analysis
-- ***Mathematics for Machine Learning: Multivariate Calculus***. Imperial College London & Coursera, 2021.
-- ***Mathematics for Machine Learning: Linear Algebra***. Imperial College London & Coursera, 2020.
-- ***Applied AI with DeepLearning***. IBM & Coursera, 2020.
-- ***Advanced Machine Learning and Signal Processing***. IBM & Coursera, 2020.
-- ***Fundamentals of Scalable Data Science***. IBM & Coursera, 2020.
+- ***Customer Analytics***. University of Pennsylvania (Wharton School) & Coursera, 2021.
+- ***Mathematics for Machine Learning***. Imperial College London & Coursera
+    - Multivariate Calculus, 2021.
+    - Linear Algebra, 2020.
+- ***Advanced Data Science*** (specialization). IBM & Coursera
+    - Applied AI with DeepLearning, 2020.
+    - Advanced Machine Learning and Signal Processing, 2020.
+    - Fundamentals of Scalable Data Science, 2020.
 - [Data Science courses](https://www.datacamp.com/profile/cfmuniz1988). DataCamp, 2018 - 2020.
 - ***Data Analysis and Statistical Inference***. Duke University & Coursera, 2014.
 - ***Introduction to Statistics***. Udacity, 2013.
