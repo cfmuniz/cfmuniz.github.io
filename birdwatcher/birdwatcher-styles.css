@@ -1,0 +1,12 @@
+body {
+    margin: 0px;
+}
+
+.videos {
+    display: flex;
+    flex-flow: wrap;
+}
+
+.videos > div{
+    margin: 0 2px;
+}
