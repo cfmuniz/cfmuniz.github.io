@@ -19,6 +19,7 @@ layout: home
 
 ## Courses and Training
 ### Data analytics
+- ***Python for Data Science, AI & Development***. IBM & Coursera. [Certificate](https://coursera.org/share/7c6fb1a4556c582a2fe92b069dc855aa)
 - ***Databases and SQL for Data Science with Python***. IBM & Coursera. [Certificate](https://coursera.org/share/bd27d06a5b35707a8f9f9b5c97292d1d)
 - ***Mathematics for Machine Learning*** specialization. Imperial College London & Coursera. [Certificate](https://coursera.org/share/78a17f2e982187b589529395639ef7ac)
     - Principal Component Analysis (PCA), 2021.
@@ -37,6 +38,7 @@ layout: home
 
 ### Marketing & logistics
 - ***Supply Chain Logistics***. Rutgers the State University of New Jersey & Coursera, 2021. [Certificate](https://coursera.org/share/2138dcfae1619cebfd0c29cdcf966df5)
+- ***Supply Chain Operations***. Rutgers the State University of New Jersey & Coursera, 2021. [Certificate](https://coursera.org/share/e77c263a5b7e712f7565f0c8bfd51aa2)
 - ***Customer Analytics***. Wharton University of Pennsylvania & Coursera, 2021. [Certificate](https://coursera.org/share/71d67493831301e69ce3d2e9d9af1934)
 
 ### Sciences
