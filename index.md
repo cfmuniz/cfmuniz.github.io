@@ -42,6 +42,7 @@ layout: home
 - ***Customer Analytics***. Wharton University of Pennsylvania & Coursera, 2021. [Certificate](https://coursera.org/share/71d67493831301e69ce3d2e9d9af1934)
 
 ### Sciences
+- ***Online course in laboratory animal science***. Ghent University, 2022.
 - ***Discovery and Use of Operational Data products and Services***. UNESCO/IOC Project Office for IODE, Belgium, 11 – 15 Mar. 2019.
 
     Contents: satellite data usage (Sentinel-3), software (Python, SNAP, IDV).
@@ -59,14 +60,17 @@ layout: home
 - ***Professional diver, SCUBA and Surface Supplied to 30m diver***. Spain, 2010.
 
 ## Publications
+- Román, S., Weidberg, N., **Muñiz, C.**, Aguion, A., Vázquez, E., Santiago, J., ... & Macho, G. 2022. Mesoscale patterns in barnacle reproduction are mediated by upwelling-driven thermal variability. Marine Ecology Progress Series, 685, 153-170. [doi:10.3354/meps13992](https://doi.org/10.3354/meps13992)
+- Aguión, A., Cruz, T., Acuña, J. L., Broudin, C., Castro, J. J., Davoult, D., [et al., including **Muñiz, C.**] & Macho, G. 2022. A large-scale comparison of reproduction and recruitment of the stalked barnacle *Pollicipes pollicipes* across Europe. Marine Biology, 169(5), 1-17.
+- Geiger, K. J., Rivera, A., Aguión, A., Álvarez, J., Arrontes, J., Borrell, Y. J., [et al., including **Muñiz, C.**] & Acuña, J. L. 2022. Coping with poachers in European stalked barnacle fisheries: Insights from a stakeholder workshop. Marine Policy, 135, 104826. [doi:10.1016/j.marpol.2021.104826](https://doi.org/10.1016/j.marpol.2021.104826)
 - **Muñiz, C.**, McQuaid, C.D., Weidberg, N. 2021. Seasonality of primary productivity affects coastal species more than its magnitude. *Science of the Total Environment*. [doi:10.1016/j.scitotenv.2020.143740](https://doi.org/10.1016/j.scitotenv.2020.143740)
 - **Muñiz, C.** 2018. Large scale spatio-temporal forcing of pelagic-coastal coupling: disentangling the effects of environmental change on intertidal invertebrate recruitment. Ph.D. Thesis, Rhodes University. Thesis available [here](http://hdl.handle.net/10962/75317).
 - Höfer, J., **Muñiz, C.**, Weidberg, N., García-Flórez, L., Acuña, J.L. 2017. High densities of stalked barnacle larvae (*Pollicipes pollicipes*) inside a river plume. *Journal of Plankton Research*, 39: 316-329. [doi:10.1093/plankt/fbw093](https://doi.org/10.1093/plankt/fbw093)
 
 ## Conference papers
-- Sousa, A., Acuña, J.L., Aguión, A., [and 12 others, including **Muñiz, C.**]. 2020. Assessing stalked barnacle *Pollicipes pollicipes* abundance across Europe for a stock status comparison. 101st Western Society of Naturalists. Virtual meeting. [poster]
+- Sousa, A., Acuña, J.L., Aguión, A., [et al., including **Muñiz, C.**]. 2020. Assessing stalked barnacle *Pollicipes pollicipes* abundance across Europe for a stock status comparison. 101st Western Society of Naturalists. Virtual meeting. [poster]
 - Román, S., **Muñiz, C.**, Aguión, A., Santiago, J.A., Seoane, P., Barreiro, B., Vázquez, E., Macho, G. 2019. Ecology of the stalked barnacle, *Pollicipes pollicipes* (Gmelin, 1970): reproduction, recruitment and relation with the environmental conditions. II International Congress of Young Marine Researchers, Málaga, Spain. [oral presentation]
-- Geiger, K., Acuña, J.L., Aguión, A., [and 36 others, including **Muñiz, C.**]. 2019. The PERCEBES project: science for the spatial management of the stalked barnacle fishery in the Atlantic Arc. XX Iberian Symposium on Marine Biology Studies (SIEBM XX), Braga, Portugal. [doi:10.3389/conf.fmars.2019.08.00156](https://doi.org/10.3389/conf.fmars.2019.08.00156) [poster]
+- Geiger, K., Acuña, J.L., Aguión, A., [et al., including **Muñiz, C.**]. 2019. The PERCEBES project: science for the spatial management of the stalked barnacle fishery in the Atlantic Arc. XX Iberian Symposium on Marine Biology Studies (SIEBM XX), Braga, Portugal. [doi:10.3389/conf.fmars.2019.08.00156](https://doi.org/10.3389/conf.fmars.2019.08.00156) [poster]
 - **Muñiz, C.**, Weidberg, N., McQuaid, C.D. 2018. Large scale drivers of benthic recruitment: effects of environmental change and a Harmful Algal Bloom. 57th Estuarine Coastal Sciences Association Conference (ECSA), Perth, Australia. [oral presentation]
 - **Muñiz, C.**, Weidberg, N., McQuaid, C.D. 2017. Red tide conditions and spatio-temporal patterns in intertidal invertebrate recruitment: does food particle size matter?. 16th Southern African Marine Science Symposium (SAMSS), Port Elizabeth, South Africa. [oral presentation]
 - **Muñiz, C.**, Weidberg, N., McQuaid, C.D. 2016. Analysis of error produced by sub-sampling zooplankton. 11th International Temperate Reefs Symposium (ITRS), Pisa, Italy. [poster]
@@ -78,4 +82,6 @@ layout: home
 - Accésit Award, *Instituto de Estudios Marinos para la Nutrición y el Bienestar* (INESMA). Research paper *"Agregación larvaria en el océano costero: el rol del comportamiento larvario”*. Weidberg, N., Bueno, J. and **Muñiz, C.** 2012.
 
 ## Research projects
+- Fisheries Innovation for sustainable Shared INTerchannEL resources ([FISHINTEL](https://www.plymouth.ac.uk/research/marine-conservation-research-group/fish-intel-interreg))
+- APELAFICO: Acoustic ecology of PELAgic FIsh COmmunities: A study into the effects of construction and operation of wind farms
 - Tools for the transition to spatial management of coastal resources: the stalked barnacle fishery in SW Europe ([PERCEBES](https://www.unioviedo.es/percebes/)), ref.: PCIN-2016-063.
